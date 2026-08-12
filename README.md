@@ -39,6 +39,8 @@ I developed a multi-dashboard Tableau solution integrating multiple operational 
 
 Business Intelligence · Data Visualization · Retail Analytics · Profitability Analysis · KPI Development · Product Segmentation · Reseller Analysis · Supply Chain Analytics
 
+**Confidentiality Note:** This project was completed as part of an academic engagement subject to confidentiality restrictions. The underlying dataset, Tableau workbook, and restricted project files are not publicly available. This repository documents the analytical approach, dashboard design, and skills demonstrated.
+
 ## Confidentiality
 
 This project was completed as part of an academic engagement and is subject to confidentiality restrictions.
