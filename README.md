@@ -47,3 +47,27 @@ This project was completed as part of an academic engagement and is subject to c
 The underlying datasets, Tableau workbook, calculations, and other restricted project materials are therefore not included in this repository.
 
 This repository documents the business problem, analytical approach, and skills demonstrated while respecting the confidentiality requirements of the project.
+
+
+## Dashboard Preview
+
+### 1. Switchback Cycle Executive Overview
+![Switchback Cycle Executive Overview](82463086-61C6-436C-9CC3-B478D61CFA23.png)
+
+### 2. 2025 Sales Performance
+![2025 Sales Performance](904E3000-8838-40FD-BEC4-F72470807696.png)
+
+### 3. Product Line Performance
+![Product Line Performance](15FE5264-1CF5-43F9-B152-1DE6F01FF3B4.png)
+
+### 4. 2025 Reseller Performance
+![2025 Reseller Performance](931046BE-E5A9-4687-81E7-980BB64FF513.png)
+
+### 5. Product Performance
+![Product Performance](9B6A1DA7-8F1D-4F75-87CC-915DF52224B4.png)
+
+### 6. Sales Team Performance
+![Sales Team Performance](2635BE56-9B2C-43E5-98C4-72F93434EDD7.png)
+
+
+
